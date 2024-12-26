@@ -1,4 +1,4 @@
-# 2024_cha7-2
+# 2024cha_7-2
 #include <stdio.h>
 
 int main()
